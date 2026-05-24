@@ -1,0 +1,57 @@
+DIVYANSH GUPTA
+San Francisco, CA | divyansh@example.com | +1 (555) 019-2834 | linkedin.com/in/divyansh-gupta | github.com/divyansh-gupta
+
+PROFESSIONAL SUMMARY
+Highly skilled and innovative AI Systems Engineer and Python Developer with 4+ years of experience designing, building, and deploying production-ready machine learning models, large language model (LLM) agents, and robust web applications. Expertise in Retrieval-Augmented Generation (RAG) architectures, LLM fine-tuning, agentic workflows, and high-performance backend systems. Proven track record of optimizing model inference, implementing scalable data ingestion pipelines, and delivering developer-centric tools.
+
+TECHNICAL SKILLS
+* Programming Languages: Python (Expert), SQL, JavaScript/TypeScript, Bash, HTML/CSS
+* AI & Machine Learning: PyTorch, TensorFlow, Hugging Face Transformers, LangChain, LlamaIndex, OpenAI API, Anthropic API, OpenRouter
+* Vector Databases & Search: Pinecone, Milvus, ChromaDB, Qdrant, Elasticsearch, pgvector
+* Backend & Cloud: FastAPI, Flask, Django, Node.js, AWS (S3, EC2, ECS, Lambda, SageMaker), Docker, Kubernetes, CI/CD (GitHub Actions)
+* Frontend: React.js, Next.js, HTML5, CSS3, TailwindCSS
+* Developer Tools: Git, VS Code, Postman, Linux, Playwright (Web Scraping/Automation)
+
+PROFESSIONAL EXPERIENCE
+
+Senior AI Engineer | InnovateAI Solutions, San Francisco, CA
+June 2024 – Present
+* Architected and deployed a multi-agent RAG system using LangChain and pgvector, reducing customer support response time by 45% and achieving a 92% answer accuracy rate.
+* Fine-tuned open-source LLMs (Llama-3, Mistral) on domain-specific datasets using QLoRA and PEFT, improving model alignment and performance by 18% on proprietary evaluation benchmarks.
+* Optimized LLM inference latency by 30% by containerizing workloads with Docker and deploying them on AWS ECS with auto-scaling configured via GPU metrics.
+* Led a team of 3 engineers in building an automated document ingestion pipeline processing 10k+ multi-format files (PDF, HTML, Docx) daily using Playwright and unstructured data parsers.
+
+AI Software Engineer | TechGenix Corp, Austin, TX
+August 2022 – May 2024
+* Developed backend microservices using FastAPI and PostgreSQL to support real-time data processing for a predictive maintenance IoT dashboard.
+* Integrated OpenAI and Anthropic APIs into core SaaS products, developing custom prompt engineering templates and agent chains that increased user engagement by 25%.
+* Built automated web scrapers using Playwright and BeautifulSoup to collect market intelligence, handling dynamic JavaScript content and bypassing anti-bot systems.
+* Maintained clean, modular, and PEP-8 compliant codebases with 90%+ unit test coverage using pytest.
+
+Junior Software Developer | ByteBuilders Ltd, New Delhi, India
+June 2021 – July 2022
+* Built and styled responsive web interfaces using React.js and TailwindCSS, collaborating closely with UI/UX designers.
+* Designed and optimized complex SQL queries and database schemas in PostgreSQL, improving query execution time by 20%.
+* Developed RESTful API endpoints using Flask to support user authentication and file upload functionalities.
+
+PROJECTS
+
+CareerSync: Automated Application Agent | Python, Playwright, Gemini API (REST)
+* Engineered a local Python automation pipeline utilizing Playwright with custom user-agent masking and network-idle handling to bypass enterprise firewalls (Taleo, Workday) and extract dynamic job descriptions.
+* Designed a "Single-Shot" LLM reasoning layer hitting the native Gemini REST API with strict JSON schema constraints, executing match-score evaluation and resume tailoring in a single token-efficient HTTP request.
+* Automated the generation of targeted professional profiles and hyper-specific cold outreach emails, completely removing manual application formatting overhead.
+
+CreatorBazaar Dashboard (Full-Stack AI Project)
+* Developed an analytics dashboard for creators, scraping public data using Playwright to track performance metrics across multiple platforms.
+* Integrated an LLM-powered content recommendation engine that analyzes creator trends and suggests personalized video topics and script outlines.
+* Stack: Python, FastAPI, React, TailwindCSS, PostgreSQL, Playwright.
+
+Auto-Agentic Outreach Pipeline
+* Built a local CLI utility that automates outreach by scanning industry forums, extracting key discussions, and generating context-aware response drafts.
+* Achieved 95% reduction in manual tracking by storing and matching target contacts using Qdrant vector database.
+* Stack: Python, LlamaIndex, Qdrant, OpenRouter API.
+
+EDUCATION
+
+Bachelor of Technology in Computer Science & Engineering
+Delhi Technological University (DTU), New Delhi, India | Graduated: May 2021

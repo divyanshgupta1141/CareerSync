@@ -1,0 +1,16 @@
+# Python environment
+.venv/
+__pycache__/
+*.pyc
+
+# Local secrets configuration
+.env
+
+# Ignore locally generated application packs at root level
+tailored_application_*.md
+
+# Allow showcase outputs
+!outputs/tailored_application_*.md
+
+# OS specific files
+.DS_Store
