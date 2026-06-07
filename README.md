@@ -52,7 +52,7 @@ flowchart TD
 
 ### 1. Enterprise Firewall & Anti-Bot Evasion
 Standard headless scrapers are instantly blocked by enterprise job boards (like Workday, Taleo, and Cloudflare challenges). CareerSync uses a tiered bypass strategy:
-* **Automation Masking**: Spocfs `navigator.webdriver`, `navigator.plugins`, and `navigator.languages` via page initialization scripts and configures realistic viewports and HTTP headers.
+* **Automation Masking**: Spoofs `navigator.webdriver`, `navigator.plugins`, and `navigator.languages` via page initialization scripts and configures realistic viewports and HTTP headers.
 * **Auto-Headed Fallback**: If headless browsing gets blocked or receives truncated text, the scraper automatically boots up a **headed browser window** to bypass Cloudflare challenges.
 * **Iframe Crawling**: Automatically extracts and compiles text from nested sub-frames, solving the common Workday issue where the description is rendered inside an `iframe`.
 
